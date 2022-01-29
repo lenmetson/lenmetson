@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Blog posts 
+# Blog(like) Posts 
 * 📓 [Dictionary Matching Tutorial in R](https://lenmetson.github.io/upgraded-garbanzo/)
 * 📓 [Course notes on Experimental Politics](https://lenmetson.github.io/experimental-methods-notes/)
