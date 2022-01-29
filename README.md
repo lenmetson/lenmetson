@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# CV
-* 📄 [Please find a copy of my CV here]()
-
-# Research 
-* 📝 []()
-*  PSA Conference Presentation: *Examining Regional Representation in Parliament*
-* 📊 [Slides for PSA Conference Presentation]()
-
-# Blog(like) Posts 
+# Writing
 * 📓 [Dictionary Matching Tutorial in R](https://lenmetson.github.io/upgraded-garbanzo/)
 * 📓 [Course notes on Experimental Politics](https://lenmetson.github.io/experimental-methods-notes/)
+* 📝 [*Voting and Partisanship: A Regression Discontinutiy Design*]()
+# Presentations 
+*  PSA Conference Presentation: *Examining Regional Representation in Parliament* 📊 [Slides]()
+
+# CV
+* 📄 [Please find a copy of my CV here]()
