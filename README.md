@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 *  PSA Conference Presentation: *Examining Regional Representation in Parliament* 📊 [Slides]()
 
 # CV
-* 📄 [Please find a copy of my CV here]()
+* 📄 [Please find a copy of my CV here](https://github.com/lenmetson/lenmetson/blob/6367fefe473c0e18d81d2493d94437897da3ba5f/files/metson_cv_public(1).pdf)
