@@ -4,4 +4,4 @@ I am a third year BSc Politics Student at LSE. I'm interested in applying resear
 
 ## Projects 
 * 🔎 Mini-project: [Gender representation of women in the Scottish Parliament](https://lenmetson.github.io/MSP-gender-speeches/) ([GitHub repo](https://github.com/lenmetson/MSP-gender-speeches))
-* 🧑‍🏫 PSA Undergraduate Conference 2021: Examining Regional-Focus in UK Parliamentary Speech: Electoral Vulnerability and Regional Representation ([Slides]())
+* 🧑‍🏫 PSA Undergraduate Conference 2021: Examining Regional-Focus in UK Parliamentary Speech: Electoral Vulnerability and Regional Representation ([Slides](https://github.com/lenmetson/lenmetson/blob/34b00e5bf26b08b14b819b2167e5a86c14742331/files/psa_presentation_metson.pdf))
