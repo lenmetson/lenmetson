@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# 👨 About me  
+## 👨 About me  
 
 My name is Len and I am a third year BSc Politics Student at LSE. My pronouns are he/him. 
 
