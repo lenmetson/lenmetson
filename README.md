@@ -18,7 +18,7 @@
 
 ***
 
-My name is Len and I am a third year BSc Politics Student at LSE. I am interested in political behaviour, social movements, persuasion and data science methods. Particularly, I am interested in finding out how people can be persuaded to support marginalised groups, and what interventions work to reduce prejudice. I hope to combine political science research methods with data science methods to answer these questions. 
+My name is Len and I recently graduated from LSE's BSc Politics. From October, I'll be starting my MSc in Politics Research at Oxford. Substantively, I am interested in election and social movement campaigns and methodologically, my interests lie in applying causal and data science methods.
 
 
 ## Fun extras 
