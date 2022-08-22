@@ -12,7 +12,7 @@
   <img align="left" alt="Len Metson's LinkedIN profile" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
 </a>
 
-<a href="mailto:lennardmetson@gmail.com">
+<a href="mailto:l.m.metson@alumni.lse.ac.uk">
   <img align="left" alt="Len Metson's Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/723-e-mail-2.svg/512px-723-e-mail-2.svg.png" />
 </a>
 
