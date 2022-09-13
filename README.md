@@ -12,13 +12,13 @@
   <img align="left" alt="Len Metson's LinkedIN profile" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
 </a>
 
-<a href="mailto:l.m.metson@alumni.lse.ac.uk">
+<a href="mailto:lennard.metson@politics.ox.ac.uk">
   <img align="left" alt="Len Metson's Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/723-e-mail-2.svg/512px-723-e-mail-2.svg.png" />
 </a>
 
 ***
 
-My name is Len and I recently graduated from LSE's BSc Politics. From October, I'll be starting my MSc in Politics Research at Oxford. Substantively, I am interested in election and social movement campaigns and methodologically, my interests lie in applying causal and data science methods.
+My name is Len and I recently graduated from LSE's BSc Politics. From October, I'll be starting my MSc in Politics Research at Oxford. Substantively, my research interests are in political campaigns. Methodologically, my interests lie in applying causal and data science methods.
 
 
 ## Fun extras 
