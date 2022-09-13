@@ -18,7 +18,7 @@
 
 ***
 
-My name is Len and I am a MSc Politics Research student at Oxford's DPIR. I recently graduated from LSE with a BSc in Politics. Substantively, my research interests are in political campaigns. Methodologically, my interests lie in applying causal and data science methods.
+My name is Len and I am a MSc Politics Research student at Oxford's DPIR. I recently graduated from LSE with a BSc in Politics. My research interests are in political behaviour and political campaigns. Methodologically, my interests lie in applying causal and data science methods.
 
 
 ## Fun extras 
