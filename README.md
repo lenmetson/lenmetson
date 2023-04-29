@@ -2,7 +2,7 @@
 
 ## 👨 About me  
 
-I am a MSc Politics Research student at Oxford's DPIR where I am supervised by [Rachel Bernhard](https://www.politics.ox.ac.uk/person/rachel-bernhard-0). Previously, I was a student at the LSE Department of Government where I completed the BSc Politics course. I am interested in researching political campaigns using field experiments and data science methods. I also take a keen interest in the open-science movement and how social science can be made more reliable, robust and ultimately useful for improving society.
+I am a MSc Politics Research student at Oxford's DPIR where I am supervised by [Rachel Bernhard](https://www.politics.ox.ac.uk/person/rachel-bernhard-0). Previously, I was a student at the LSE Department of Government. I am interested in researching political campaigns using field experiments and data science methods. I also take a keen interest in the open-science movement and how social science can be made more reliable, robust and ultimately useful for improving society.
 
 ## Contact details 
 
