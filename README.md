@@ -6,7 +6,7 @@ I am an MRes/PhD student at LSE Government, supervised by [Florian Foos](https:/
 
 ## 🔬 Research areas of interest
 - Political campaigns
-- Mobilization and persuasion
+- Mobilization & persuasion
 - Social networks & influence
 - Exclusionary attitudes and prejudice reduction
 - Political participation
