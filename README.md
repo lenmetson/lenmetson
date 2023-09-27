@@ -14,6 +14,5 @@ I am an MRes/PhD student at LSE Government, supervised by [Florian Foos](https:/
 
 ## ☎️ Contact details 
 
-📧 Email: lennard.metson@politics.ox.ac.uk
-🐘 Mastodon: [@len_metson](https://mastodon.online/@len_metson)
+📧 Email: l.m.metson@lse.ac.uk
 🔗 LinkedIn [lenmetson](https://www.linkedin.com/in/lenmetson/)
